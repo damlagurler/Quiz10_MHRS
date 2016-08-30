@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{669CAD36-3AF7-44F6-B834-8ACBE7ACC32D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Quiz10_20160627_MHRS</RootNamespace>
+    <AssemblyName>Quiz10_20160627_MHRS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_IzinAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_IzinAl.Designer.cs">
+      <DependentUpon>Form_IzinAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_List.Designer.cs">
+      <DependentUpon>Form_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Profil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Profil.Designer.cs">
+      <DependentUpon>Form_Profil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ProfilDoktor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ProfilDoktor.Designer.cs">
+      <DependentUpon>Form_ProfilDoktor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ProfilDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ProfilDuzenle.Designer.cs">
+      <DependentUpon>Form_ProfilDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_RandevuOzet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_RandevuOzet.Designer.cs">
+      <DependentUpon>Form_RandevuOzet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_ReceteYaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ReceteYaz.Designer.cs">
+      <DependentUpon>Form_ReceteYaz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_UyeGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_UyeGiris.Designer.cs">
+      <DependentUpon>Form_UyeGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_RandevuAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_RandevuAl.Designer.cs">
+      <DependentUpon>Form_RandevuAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_UyeKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_UyeKayit.Designer.cs">
+      <DependentUpon>Form_UyeKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Veri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Veri.Designer.cs">
+      <DependentUpon>Form_Veri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_IzinAl.resx">
+      <DependentUpon>Form_IzinAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_List.resx">
+      <DependentUpon>Form_List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Profil.resx">
+      <DependentUpon>Form_Profil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ProfilDoktor.resx">
+      <DependentUpon>Form_ProfilDoktor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ProfilDuzenle.resx">
+      <DependentUpon>Form_ProfilDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_RandevuOzet.resx">
+      <DependentUpon>Form_RandevuOzet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_ReceteYaz.resx">
+      <DependentUpon>Form_ReceteYaz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_UyeGiris.resx">
+      <DependentUpon>Form_UyeGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_RandevuAl.resx">
+      <DependentUpon>Form_RandevuAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_UyeKayit.resx">
+      <DependentUpon>Form_UyeKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Veri.resx">
+      <DependentUpon>Form_Veri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

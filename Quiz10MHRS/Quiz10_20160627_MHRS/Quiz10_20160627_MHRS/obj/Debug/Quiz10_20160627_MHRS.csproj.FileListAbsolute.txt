@@ -1,0 +1,154 @@
+C:\Users\C-1\Desktop\Degiskenler Uygulama\Windows Form\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe.config
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\....ADONET\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe.config
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\....ADONET\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\....ADONET\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\....ADONET\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csprojResolveAssemblyReference.cache
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\....ADONET\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form1.resources
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\....ADONET\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_List.resources
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\....ADONET\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Profil.resources
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\....ADONET\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Randevu.resources
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\....ADONET\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Veri.resources
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\....ADONET\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Properties.Resources.resources
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\....ADONET\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csproj.GenerateResource.Cache
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\....ADONET\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\C-1\Documents\Visual Studio 2012\Projects\....ADONET\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\Administrator\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe.config
+C:\Users\Administrator\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\Administrator\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\Administrator\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\Administrator\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\Administrator\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form1.resources
+C:\Users\Administrator\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_List.resources
+C:\Users\Administrator\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Profil.resources
+C:\Users\Administrator\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Randevu.resources
+C:\Users\Administrator\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Veri.resources
+C:\Users\Administrator\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csproj.GenerateResource.Cache
+C:\Users\C-1\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe.config
+C:\Users\C-1\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\C-1\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\C-1\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\C-1\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\C-1\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csprojResolveAssemblyReference.cache
+C:\Users\C-1\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form1.resources
+C:\Users\C-1\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_List.resources
+C:\Users\C-1\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Profil.resources
+C:\Users\C-1\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Randevu.resources
+C:\Users\C-1\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Veri.resources
+C:\Users\C-1\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Properties.Resources.resources
+C:\Users\C-1\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csproj.GenerateResource.Cache
+C:\Users\C-1\Desktop\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_UyeGiris.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe.config
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csprojResolveAssemblyReference.cache
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form1.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_List.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Profil.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_UyeGiris.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_UyeKayit.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Veri.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Properties.Resources.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csproj.GenerateResource.Cache
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_RandevuAl.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_RandevuOzet.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe.config
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csprojResolveAssemblyReference.cache
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form1.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_List.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Profil.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_RandevuOzet.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_UyeGiris.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_RandevuAl.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_UyeKayit.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Veri.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Properties.Resources.resources
+C:\Users\Brothers\Documents\Visual Studio 2015\Projects\Quiz10_20160627_MHRS (Entity'den Önce)\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csproj.GenerateResource.Cache
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe.config
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csprojResolveAssemblyReference.cache
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form1.resources
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_List.resources
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Profil.resources
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_RandevuOzet.resources
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_UyeGiris.resources
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_RandevuAl.resources
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_UyeKayit.resources
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Veri.resources
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Properties.Resources.resources
+C:\Users\Osman\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csproj.GenerateResource.Cache
+I:\SON\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe.config
+I:\SON\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.exe
+I:\SON\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\Brothers\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe.config
+C:\Users\Brothers\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\Brothers\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe.config
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csprojResolveAssemblyReference.cache
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form1.resources
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_List.resources
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Profil.resources
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_RandevuOzet.resources
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_UyeGiris.resources
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_RandevuAl.resources
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_UyeKayit.resources
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Veri.resources
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Properties.Resources.resources
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csproj.GenerateResource.Cache
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_ProfilDoktor.resources
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_IzinAl.resources
+C:\Users\Osman\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_ReceteYaz.resources
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe.config
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csprojResolveAssemblyReference.cache
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form1.resources
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_IzinAl.resources
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_List.resources
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Profil.resources
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_ProfilDoktor.resources
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_RandevuOzet.resources
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_ReceteYaz.resources
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_UyeGiris.resources
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_RandevuAl.resources
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_UyeKayit.resources
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Veri.resources
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Properties.Resources.resources
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csproj.GenerateResource.Cache
+C:\Users\gurle\Desktop\SON ÇALIŞMALAR\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_ProfilDuzenle.resources
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe.config
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.exe
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\bin\Debug\Quiz10_20160627_MHRS.pdb
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csprojResolveAssemblyReference.cache
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form1.resources
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_IzinAl.resources
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_List.resources
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Profil.resources
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_ProfilDoktor.resources
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_ProfilDuzenle.resources
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_RandevuOzet.resources
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_ReceteYaz.resources
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_UyeGiris.resources
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_RandevuAl.resources
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_UyeKayit.resources
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Form_Veri.resources
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.Properties.Resources.resources
+C:\Users\gurle\Desktop\Quiz10MHRS\Quiz10_20160627_MHRS\Quiz10_20160627_MHRS\obj\Debug\Quiz10_20160627_MHRS.csproj.GenerateResource.Cache
